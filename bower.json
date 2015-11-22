@@ -1,0 +1,30 @@
+{
+  "name": "webapp",
+  "description": "Static Web app starter kit",
+  "main": "index.js",
+  "authors": [
+    "Alexis A. Banaag Jr."
+  ],
+  "license": "ISC",
+  "keywords": [
+    "WebApp",
+    "Starter",
+    "Kit"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0"
+  }
+}
